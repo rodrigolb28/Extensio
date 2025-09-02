@@ -1,13 +1,13 @@
-package com.uenf.backend_vitrine;
+package RMB.Extensio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendVitrineDeExtensoesApplication {
+public class ExtensioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BackendVitrineDeExtensoesApplication.class, args);
+		SpringApplication.run(ExtensioApplication.class, args);
 	}
 
 }
